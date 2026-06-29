@@ -45,6 +45,7 @@ def save_raw_data(
 def main() -> None:
     data = download_market_data()
     save_raw_data(data)
+    print(data.index)
 
 
 if __name__ == "__main__":
