@@ -176,7 +176,7 @@ Quantitative-Decision-Lab/
 
 ## Long-Term Vision
 
-The long-term vision of QuantRiskLab is to evolve from a financial risk analytics project into a broader decision intelligence platform.
+The long-term vision of Quantitative Decision Lab is to evolve from a financial risk analytics project into a broader decision intelligence platform.
 
 The final objective is to demonstrate the ability to transform data into quantitative insights that support strategic, financial and operational decisions in complex environments.
 
